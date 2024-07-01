@@ -21,8 +21,13 @@ This is what all 12 months of all years look like:
 (We no longer have Sunday; Monday, Tuesday, Wednestay, Thurstay, Friday, and Saturday are the days of the week.)
 
 Mo Tu We Th Fr Sa
+____
  1  2  3  4  5  6 
+____
  7  8  9 10 11 12 
+____
 13 14 15 16 17 18 
+____
 19 20 21 22 23 24 
+____
 25 26 27 28 29 30 
